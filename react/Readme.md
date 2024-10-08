@@ -59,3 +59,19 @@
   }
 }
 ```
+
+Get Users:
+https://foodapp.selfmade.one/food_hotel/sample.php?method=getUsers
+
+Get Foods:
+https://foodapp.selfmade.one/food_hotel/sample.php?method=getFoods
+
+Get Categories:
+https://foodapp.selfmade.one/food_hotel/sample.php?method=getCategory
+
+Get Tables:
+https://foodapp.selfmade.one/food_hotel/sample.php?method=getTable
+
+Get Orders:
+https://foodapp.selfmade.one/food_hotel/sample.php?method=getOrders
+
